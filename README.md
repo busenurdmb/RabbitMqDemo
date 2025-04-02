@@ -1,4 +1,4 @@
-# 📨 .NET 8 + RabbitMQ + SQL + Elasticsearch Entegrasyonu
+# 📨 .NET 9 + RabbitMQ + SQL + Elasticsearch Entegrasyonu
 
 Bu projede RabbitMQ üzerinden iletilen sipariş mesajları SQL Server'a kaydedilir, Serilog ile hem dosyaya hem Elasticsearch'e loglanır ve Kibana'da görselleştirilir.
 
@@ -38,7 +38,7 @@ RabbitMqDemo/
 
 | Teknoloji         | Açıklama                                     |
 |------------------|----------------------------------------------|
-| 💻 .NET 8         | Web API ve Worker Service                    |
+| 💻 .NET 9         | Web API ve Worker Service                    |
 | 🐇 RabbitMQ       | Mesaj kuyruğu sistemi                        |
 | 🗃️ SQL Server     | Sipariş verilerinin kaydedildiği veritabanı  |
 | 🧾 Serilog        | Gelişmiş loglama altyapısı                   |
